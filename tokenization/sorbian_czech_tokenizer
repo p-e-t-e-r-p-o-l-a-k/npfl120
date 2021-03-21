@@ -1,0 +1,15 @@
+Number of SpaceAfter=No features in gold data: 463
+Tokenizer words - system: 2222, gold: 2221, precision: 99.50%, recall: 99.55%, f1: 99.53%
+Tokenizer sentences - system: 126, gold: 124, precision: 89.68%, recall: 91.13%, f1: 90.40%
+Number of SpaceAfter=No features in gold data: 477
+Tokenizer words - system: 2265, gold: 2264, precision: 99.51%, recall: 99.56%, f1: 99.54%
+Tokenizer sentences - system: 125, gold: 124, precision: 88.80%, recall: 89.52%, f1: 89.16%
+Number of SpaceAfter=No features in gold data: 476
+Tokenizer words - system: 2256, gold: 2255, precision: 99.51%, recall: 99.56%, f1: 99.53%
+Tokenizer sentences - system: 125, gold: 124, precision: 88.80%, recall: 89.52%, f1: 89.16%
+Number of SpaceAfter=No features in gold data: 480
+Tokenizer words - system: 2271, gold: 2270, precision: 99.52%, recall: 99.56%, f1: 99.54%
+Tokenizer sentences - system: 125, gold: 124, precision: 88.80%, recall: 89.52%, f1: 89.16%
+Number of SpaceAfter=No features in gold data: 481
+Tokenizer words - system: 2279, gold: 2278, precision: 99.52%, recall: 99.56%, f1: 99.54%
+Tokenizer sentences - system: 125, gold: 124, precision: 88.80%, recall: 89.52%, f1: 89.16%
